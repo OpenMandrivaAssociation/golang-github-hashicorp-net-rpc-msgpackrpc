@@ -1,0 +1,11 @@
+import:
+- package: github.com/hashicorp/go-msgpack
+  subpackages:
+  - codec
+  version: fa3f63826f7c23912c15263591e65d54d080b458
+- package: github.com/hashicorp/go-multierror
+  version: d30f09973e19c1dfcd120b2d9c4f168e68d6b5d5
+- package: github.com/hashicorp/errwrap
+  version: 7554cd9344cec97297fa6649b055a8c98c2a1e55
+package: github.com/hashicorp/net-rpc-msgpackrpc
+
